@@ -4,5 +4,6 @@
     <string name="app_name">带你找车位</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
+    <string name="button_lookingforparking">找车位</string>
 
 </resources>
